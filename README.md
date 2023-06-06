@@ -6,7 +6,7 @@
 <h3 align="center">Welcome to My Github!</h3>
 
 # 💫 About Me:
-I am a student 🎓in Factoria F5 where I study to become a junior full stack developer. My hobbies include astronomy 🔭 and getting lost on a weekend in nature 🌳⛺ where I go hiking.
+I am  a junior full stack developer. My hobbies include astronomy 🔭 and getting lost on a weekend in nature 🌳⛺ where I go hiking.
 
 
 # 💻 Tech Stack:
